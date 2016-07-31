@@ -15,7 +15,8 @@ p {
  position:absolute;
  top:4px;
  left:4px;
- width:99%;
+ right:4px;
+ height:100px;
  border-bottom: 1px solid #1A1A4D;
  background-color:#4444BB;
  font-size:3em;
