@@ -12,6 +12,11 @@ p {
  color:#eeeeee;
 }
 
+a:link {color:#CCCCCC;}
+a:visited {color:#CCCCCC;}
+a:hover {color:#EEEEEE;}
+a:active {color:#FFFFFF;}
+
 #header {
  position:absolute;
  top:4px;
