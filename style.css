@@ -37,6 +37,10 @@ a:active {color:#FFFFFF;}
  border-radius: 4px;
 }
 
+#bottom-padding {
+ height:65px;
+}
+
 #footer {
  position:fixed;
  bottom:0px;
